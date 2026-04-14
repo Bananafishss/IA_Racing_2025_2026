@@ -194,5 +194,7 @@ Previous years' work and the base platform are available here:
   https://gitlab.imt-atlantique.fr/procom-ia-racing/2024-procom-ia-racing
   ## Structure of our Team
   Perception Groupe: WANG Lixi, ZHANG Chen
+  
   Controller Groupe: Anthony CENZANO
+  
   Calibration Groupe: Zaineb MAHMOUDI, Wissal DAHANI
